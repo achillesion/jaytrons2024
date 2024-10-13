@@ -17,6 +17,7 @@ interface BlurFadeProps {
   inViewMargin?: string;
   blur?: string;
 }
+
 const BlurFade = ({
   children,
   className,
@@ -30,8 +31,9 @@ const BlurFade = ({
 }: BlurFadeProps) => {
   const ref = useRef(null);
 
-const marginValue = inViewMargin as unknown as MarginType;
-const inViewResult = useInView(ref, { once: true, margin: marginValue });
+  // Parse the margin as a number
+  const parsedMargin = parseInt(inViewMargin, 10) || 0;
+  const inViewResult = useInView(ref, { once: true, margin: parsedMargin });
   
   const isInView = !inView || inViewResult;
   const defaultVariants: Variants = {

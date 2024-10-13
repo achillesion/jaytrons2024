@@ -31,8 +31,13 @@ const BlurFade = ({
 }: BlurFadeProps) => {
   const ref = useRef(null);
 
-  // Use inViewMargin directly
-  const inViewResult = useInView(ref, { once: true, margin: inViewMargin });
+  // Convert the margin string into an array of numbers
+  const marginArray = inViewMargin.split(" ").map((margin) => {
+    return margin.endsWith("px") ? parseInt(margin, 10) : 0;
+  });
+
+  // Use inViewMargin as an array
+  const inViewResult = useInView(ref, { once: true, margin: marginArray });
   
   const isInView = !inView || inViewResult;
   const defaultVariants: Variants = {

@@ -14,7 +14,7 @@ interface BlurFadeProps {
   delay?: number;
   yOffset?: number;
   inView?: boolean;
-  inViewMargin?: string;
+  inViewMargin?: string; // Keep this as a string
   blur?: string;
 }
 
@@ -26,14 +26,13 @@ const BlurFade = ({
   delay = 0,
   yOffset = 6,
   inView = false,
-  inViewMargin = "-50px",
+  inViewMargin = "-50px", // default string margin
   blur = "6px",
 }: BlurFadeProps) => {
   const ref = useRef(null);
 
-  // Parse the margin as a number
-  const parsedMargin = parseInt(inViewMargin, 10) || 0;
-  const inViewResult = useInView(ref, { once: true, margin: parsedMargin });
+  // Use inViewMargin directly
+  const inViewResult = useInView(ref, { once: true, margin: inViewMargin });
   
   const isInView = !inView || inViewResult;
   const defaultVariants: Variants = {
@@ -41,6 +40,7 @@ const BlurFade = ({
     visible: { y: -yOffset, opacity: 1, filter: `blur(0px)` },
   };
   const combinedVariants = variant || defaultVariants;
+  
   return (
     <AnimatePresence>
       <motion.div

@@ -173,14 +173,7 @@ export const DATA = {
     // },
   ],
   education: [
-    {
-      school: "Lancaster University",
-      href: "https://www.lancaster.ac.uk/",
-      degree: "Bachelor's degree  in Computer Science, Computer Science",
-      logoUrl: "https://media.licdn.com/dms/image/v2/C4E0BAQGKio0Euee3Lw/company-logo_100_100/company-logo_100_100/0/1631301666319?e=1738195200&v=beta&t=fewQaxSSyIIMxTDrlURswIoJJa46cpejVapHaypT_Ws",
-      start: "2023",
-      end: "2024",
-    },
+
     {
       school: "freeCodeCamp",
       href: "https://www.freecodecamp.org/",
@@ -189,25 +182,17 @@ export const DATA = {
       start: "2016",
       end: "2021",
     },
-    // {
-    //   school: "Wilfrid Laurier University",
-    //   href: "https://wlu.ca",
-    //   degree: "Bachelor's Degree of Business Administration (BBA)",
-    //   logoUrl: "/laurier.png",
-    //   start: "2016",
-    //   end: "2021",
-    // },
-    // {
-    //   school: "International Baccalaureate",
-    //   href: "https://ibo.org",
-    //   degree: "IB Diploma",
-    //   logoUrl: "/ib.png",
-    //   start: "2012",
-    //   end: "2016",
-    // },
+    {
+      school: "Lancaster University",
+      href: "https://www.lancaster.ac.uk/",
+      degree: "Bachelor's degree  in Computer Science, Computer Science",
+      logoUrl: "https://media.licdn.com/dms/image/v2/C4E0BAQGKio0Euee3Lw/company-logo_100_100/company-logo_100_100/0/1631301666319?e=1738195200&v=beta&t=fewQaxSSyIIMxTDrlURswIoJJa46cpejVapHaypT_Ws",
+      start: "2012",
+      end: "2016",
+    },
     {
       school: "Beaconhouse School System",
-      href: "https://ibo.org",
+      href: "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-advanced/cambridge-international-as-and-a-levels/",
       degree: "Cambridge International A Levels - Pre Engineering",
       logoUrl: "https://www.beaconhouse.net/wp-content/uploads/2017/07/bss-logo.png",
       start: "2010",
@@ -215,11 +200,11 @@ export const DATA = {
     },
     {
       school: "Beaconhouse School System",
-      href: "https://ibo.org",
+      href: "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-upper-secondary/cambridge-o-level/",
       degree: "Cambridge International O Levels - Pre Engineering",
       logoUrl: "https://www.beaconhouse.net/wp-content/uploads/2017/07/bss-logo.png",
-      start: "2010",
-      end: "2007",
+      start: "2007",
+      end: "2010",
     },
   ],
   projects: [

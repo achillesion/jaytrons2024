@@ -29,23 +29,20 @@ const BlurFade = ({
   inViewMargin = "-50px", // default string margin
   blur = "6px",
 }: BlurFadeProps) => {
-  const ref = useRef(null);
+  const ref = useRef<HTMLDivElement | null>(null);
 
-  // Convert the margin string into an array of numbers
-  const marginArray = inViewMargin.split(" ").map((margin) => {
-    return margin.endsWith("px") ? parseInt(margin, 10) : 0;
-  });
+  // Convert the margin string to a valid format for useInView
+  const marginValue: string | any = inViewMargin; // Use the margin string directly
 
-  // Use inViewMargin as an array
-  const inViewResult = useInView(ref, { once: true, margin: marginArray });
-  
+  const inViewResult = useInView(ref, { once: true, margin: marginValue });
+
   const isInView = !inView || inViewResult;
   const defaultVariants: Variants = {
     hidden: { y: yOffset, opacity: 0, filter: `blur(${blur})` },
     visible: { y: -yOffset, opacity: 1, filter: `blur(0px)` },
   };
   const combinedVariants = variant || defaultVariants;
-  
+
   return (
     <AnimatePresence>
       <motion.div

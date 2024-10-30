@@ -138,25 +138,26 @@ export const DATA = {
     },
   ],
   education: [
+        {
+      school: "Google UX Design",
+      href: "https://grow.google/certificates/ux-design/",
+      degree: "User Experience (UX) Design Certification, UX Design",
+      logoUrl: "https://upload.wikimedia.org/wikipedia/commons/archive/c/c1/20170301123009%21Google_%22G%22_logo.svg",
+      start: "2016",
+      end: "2017",
+    },
 
     {
       school: "freeCodeCamp",
       href: "https://www.freecodecamp.org/",
       degree: "Full Stack Web Development Certification, Computer Science",
       logoUrl: "https://media.licdn.com/dms/image/v2/C4E0BAQGLKj3JHcof0w/company-logo_100_100/company-logo_100_100/0/1630639684997/free_code_camp_logo?e=1738195200&v=beta&t=KPhcEP6-8U_pM3mEZarDJEfZsjA9hM6AJgQPyIt2iYA",
-      start: "2016",
-      end: "2017",
-    },
- 
-  
-       {
-      school: "Google UX Design",
-      href: "https://grow.google/certificates/ux-design/",
-      degree: "User experience (UX) design with a professional UX certificate developed by Google.",
-      logoUrl: "https://upload.wikimedia.org/wikipedia/commons/archive/c/c1/20170301123009%21Google_%22G%22_logo.svg",
       start: "2015",
       end: "2016",
     },
+ 
+  
+   
       {
       school: "Lancaster University",
       href: "https://www.lancaster.ac.uk/",

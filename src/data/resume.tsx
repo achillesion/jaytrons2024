@@ -8,10 +8,11 @@ export const DATA = {
   location: "Lahore, Pakistan, PK",
   locationLink: "https://www.google.com/maps/place/lahore",
   description:
-    " 👨‍🚀 Full Stack Developer turned Product Designer. Passionate about building impactful solutions and empowering people along the way. Highly active on Upwork.",
+    "Full Stack Developer turned Product Designer. Passionate about building impactful solutions and empowering people along the way. Highly active on Upwork.",
   summary:
     // "At the end of 2022, I quit my job as a software engineer to go fulltime into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
-    "5+ years working in UI/UX design, have worked with major brands like ESPN, Fox Sports, NFL Network, UFC, and Deliveroo.Expertise in creating user-centered and consumer-centric designs, AAA quality designs that convert Specialize in wireframing, prototyping, and creating user interface design for Web and Mobile Apps Also, create design systems with all my projects delivered to ease your and your developer's lives. Excellent grip on tools like Figma, Adobe XD, Framer, Spline Also do development in technologies like WordPress, Webflow, HTML, CSS, and Javascript frameworks like React.js My ability to communicate and collaborate effectively with clients and team members sets me apart from other designers.",
+    "At the end of 2022, I quit my job as a Senior Full Stack Developer to go full-time into Freelancing on Upwork and working on Silicon Valley scale projects. 
+    My ability to communicate and collaborate effectively with clients and team members sets me apart from other designers and developers.",
   avatarUrl: "https://raw.githubusercontent.com/achillesion/imageUrl/main/New%20Project%202.png",
   skills: [
     "Figma", 

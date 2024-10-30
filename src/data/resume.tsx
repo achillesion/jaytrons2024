@@ -14,16 +14,19 @@ export const DATA = {
     "5+ years working in UI/UX design, have worked with major brands like ESPN, Fox Sports, NFL Network, UFC, and Deliveroo.Expertise in creating user-centered and consumer-centric designs, AAA quality designs that convert Specialize in wireframing, prototyping, and creating user interface design for Web and Mobile Apps Also, create design systems with all my projects delivered to ease your and your developer's lives. Excellent grip on tools like Figma, Adobe XD, Framer, Spline Also do development in technologies like WordPress, Webflow, HTML, CSS, and Javascript frameworks like React.js My ability to communicate and collaborate effectively with clients and team members sets me apart from other designers.",
   avatarUrl: "https://raw.githubusercontent.com/achillesion/imageUrl/main/New%20Project%202.png",
   skills: [
-    
-    "Figma", "User Research & Analysis", "Wireframing & Prototyping", "User-Centered Design (UCD) Principles"
-    "React", "Next.js", "Nest.js",
+    "Figma", 
+    "User Research & Analysis", 
+    "Wireframing & Prototyping", 
+    "User-Centered Design (UCD) Principles",
+    "React", 
+    "Next.js", 
+    "Nest.js",
     "Typescript",
     "Node.js",
     "HTML",
     "CSS",
     "Bootstrap",
     "JavaScript",
-    "Nest.js",
      "Python / Django",
      "Postgres", "MongoDB", "SQL",
      "Docker",

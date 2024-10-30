@@ -115,7 +115,7 @@ export const DATA = {
     {
       company: "Courioo Technologies",
       href: "https://splunk.com",
-      badges: [123,23232,2323],
+      badges: [],
       location: "Dubai, UAE",
       title: "Software Engineer",
       logoUrl: "https://media.licdn.com/dms/image/v2/C4D0BAQHtHZXjNawrlA/company-logo_100_100/company-logo_100_100/0/1630567376780/courioo_technologies_private_limited_logo?e=1738195200&v=beta&t=WXayljnAIX1B7mg8UnngKSej_hDuwiacAZ5kpLoV_Wc",

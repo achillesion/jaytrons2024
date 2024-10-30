@@ -99,23 +99,12 @@ export const DATA = {
   },
 
   work: [
-    {
-      company: "Jaytrons",
-      href: "https://www.jaytrons.com",
-      badges: [],
-      location: "Remote",
-      title: "UI/UX Designer",
-      logoUrl: "https://media.licdn.com/dms/image/v2/D4D0BAQEnKtM65Dsl2g/company-logo_200_200/company-logo_200_200/0/1681267937861/jaytron_labs_logo?e=1738195200&v=beta&t=uqz0LXkZhLjpwFy-gIaZNmxN8cLPpLRqDqpRiu5_rEk",
-      start: "May 2019",
-      end: "Oct 2024",
-      description:
-        "5+ years working in UI/UX design, have worked with major brands like ESPN, Fox Sports, NFL Network, UFC, and Deliveroo.",
-    },
+  
     {
       company: "myAlfred",
       badges: [],
       href: "https://myAlfred.com",
-      location: "Contract",
+      location: "Dubai, UAE",
       title: "Senior UI/UX Designer",
       logoUrl: "https://media.licdn.com/dms/image/v2/C4E0BAQEwRJNQf30Ypw/company-logo_100_100/company-logo_100_100/0/1637577102656/myalfred_llc_logo?e=1738195200&v=beta&t=CN1hE-4xoxqpcRjJuKK8tl-LiJYulG5lPIpu4C6gi6I",
       start: "Sep 2022",
@@ -124,22 +113,10 @@ export const DATA = {
         "Product Design, Wireframing, UI Design for 26+ Modules, 300+ Figma designs along with leading of designers. Video Commercials, Marketing strategy",
     },
     {
-      company: "Nvidia",
-      href: "https://nvidia.com/",
-      badges: [],
-      location: "Santa Clara, CA",
-      title: "Software Engineer",
-      logoUrl: "https://media.licdn.com/dms/image/v2/D560BAQFHVb6ZSCipCw/company-logo_100_100/company-logo_100_100/0/1727104517379/upwork_logo?e=1738195200&v=beta&t=pMKwDnxpE5LRfStU40CAetNTvGpRvIkxHH-Tvbcg0_U",
-      start: "January 2020",
-      end: "April 2020",
-      description:
-        "Architected and wrote the entire MVP of the GeForce Now Cloud Gaming internal admin and A/B testing dashboard using React, Redux, TypeScript, and Python.",
-    },
-    {
-      company: "Splunk",
+      company: "Courioo Technologies",
       href: "https://splunk.com",
-      badges: [],
-      location: "San Jose, CA",
+      badges: [123,23232,2323],
+      location: "Dubai, UAE",
       title: "Software Engineer",
       logoUrl: "https://media.licdn.com/dms/image/v2/C4D0BAQHtHZXjNawrlA/company-logo_100_100/company-logo_100_100/0/1630567376780/courioo_technologies_private_limited_logo?e=1738195200&v=beta&t=WXayljnAIX1B7mg8UnngKSej_hDuwiacAZ5kpLoV_Wc",
       start: "January 2019",
@@ -148,10 +125,10 @@ export const DATA = {
         "Co-developed a prototype iOS app with another intern in Swift for the new Splunk Phantom security orchestration product (later publicly demoed and launched at .conf annual conference in Las Vegas). Implemented a realtime service for the iOS app in Django (Python) and C++; serialized data using protobufs transmitted over gRPC resulting in an approximate 500% increase in data throughput.",
     },
     {
-      company: "Lime",
+      company: "Narsun Studios",
       href: "https://li.me/",
       badges: [],
-      location: "San Francisco, CA",
+      location: "Lahore, Paksitan, PK",
       title: "Software Engineer",
       logoUrl: "https://media.licdn.com/dms/image/v2/D4D0BAQEVgi2-DW7qmw/company-logo_100_100/company-logo_100_100/0/1725350955612/narsunstudios_logo?e=1738195200&v=beta&t=LuhtdPSA3Tah-Jutr91pTjbpJoULQm_ZHgwlnmqk8UA",
       start: "January 2018",

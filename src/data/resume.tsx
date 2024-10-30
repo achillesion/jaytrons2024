@@ -11,7 +11,7 @@ export const DATA = {
     "Full Stack Designer & Developer turned Product Designer. Passionate about building impactful solutions and empowering people along the way. Highly active on Upwork.",
   summary:
     // "At the end of 2022, I quit my job as a software engineer to go full-time into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
-    "At the end of 2022, I quit my job as a Full Stack UI/UX Designer & Developer to go full-time into Freelancing on Upwork and working on Silicon Valley scale projects. My ability to communicate and collaborate effectively with clients and team members sets me apart from other designers and developers.",
+    "At the end of 2023, I quit my job as a Full Stack UI/UX Designer & Developer to go full-time into Freelancing on Upwork and working on Silicon Valley scale projects. My ability to communicate and collaborate effectively with clients and team members sets me apart from other designers and developers.",
   avatarUrl: "https://raw.githubusercontent.com/achillesion/imageUrl/main/New%20Project%202.png",
   skills: [
     "Figma", 

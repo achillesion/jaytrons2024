@@ -56,19 +56,19 @@ export const DATA = {
 
         navbar: true,
       },
-      X: {
-        name: "X",
-        url: "https://x.com/achillesion",
-        icon: Icons.x,
+      // X: {
+      //   name: "X",
+      //   url: "https://x.com/achillesion",
+      //   icon: Icons.x,
 
-        navbar: true,
-      },
-      Youtube: {
-        name: "Youtube",
-        url: "https://www.youtube.com/@ahmadbashir1",
-        icon: Icons.youtube,
-        navbar: true,
-      },
+      //   navbar: true,
+      // },
+      // Youtube: {
+      //   name: "Youtube",
+      //   url: "https://www.youtube.com/@ahmadbashir1",
+      //   icon: Icons.youtube,
+      //   navbar: true,
+      // },
       Be: {
         name: "Behance",
         url: "https://www.be.net/ahmadbashir",
@@ -89,7 +89,7 @@ export const DATA = {
       },
       email: {
         name: "Send Email",
-        url: "#",
+        url: "achillesion@gmail.com",
         icon: Icons.email,
 
         navbar: false,

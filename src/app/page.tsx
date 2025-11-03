@@ -1,4 +1,6 @@
 import { HackathonCard } from "@/components/hackathon-card";
+import dynamic from "next/dynamic";
+const Hero = dynamic(() => import("@/components/Hero/Hero"), { ssr: false });
 import BlurFade from "@/components/magicui/blur-fade";
 import BlurFadeText from "@/components/magicui/blur-fade-text";
 import { ProjectCard } from "@/components/project-card";
@@ -38,6 +40,7 @@ export default function Page() {
             </BlurFade>
           </div>
         </div>
+        <Hero  />
       </section>
       <section id="about">
         <BlurFade delay={BLUR_FADE_DELAY * 3}>

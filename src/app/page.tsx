@@ -26,6 +26,18 @@ export default function Page() {
                 yOffset={8}
                 text={`Hi, I'm ${DATA.name.split(" ")[0]} 👋`}
               />
+             <a
+  href="mailto:achillesion@gmail.com"
+  className="inline-flex items-center gap-2 text-gray-800 font-medium hover:text-red-600 transition-colors duration-300"
+>
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
+    alt="Gmail"
+    className="w-5 h-5"
+  />
+  achillesion@gmail.com
+</a>
+
               <BlurFadeText
                 className="max-w-[600px] md:text-xl"
                 delay={BLUR_FADE_DELAY}

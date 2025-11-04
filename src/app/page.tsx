@@ -13,22 +13,17 @@ import Markdown from "react-markdown";
 const BLUR_FADE_DELAY = 0.04;
 export default function Page() {
   return (
+    <>
+
+
     <main className="flex flex-col min-h-[100dvh] space-y-10">
+
+
       <section id="hero">
         <div className="mx-auto w-full max-w-2xl space-y-8">
           <div className="gap-2 flex justify-between">
             <div className="flex-col flex flex-1 space-y-1.5">
-               <a
-  href="mailto:achillesion@gmail.com"
-  className="inline-flex items-center gap-2 text-gray-800 font-medium hover:text-red-600 transition-colors duration-300"
->
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
-    alt="Gmail"
-    className="w-5 h-5"
-  />
-  achillesion@gmail.com
-</a>
+
               <BlurFadeText
                 delay={BLUR_FADE_DELAY}
                 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none"
@@ -48,17 +43,7 @@ export default function Page() {
     <AvatarFallback>{DATA.initials}</AvatarFallback>
   </Avatar>
 
-  <Link
-    href="https://wa.me/923215236350"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="flex items-center justify-center gap-2 border-2 border-[#378066] text-[#378066] rounded-lg py-2 px-4 transition-all duration-300 hover:bg-[#378066] hover:text-white w-full sm:w-[180px] text-sm mt-3"
-  >
-    Get in Touch
-    <span className="text-xs text-[#378066] hover:text-white">
-      +92 321 5236350
-    </span>
-  </Link>
+  
 </BlurFade>
 
           </div>
@@ -247,5 +232,6 @@ export default function Page() {
         </div>
       </section>
     </main>
+    </>
   );
 }

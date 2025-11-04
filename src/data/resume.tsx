@@ -1,6 +1,6 @@
 import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
-
+import { FaFreeCodeCamp } from "react-icons/fa";
 export const DATA = {
   name: "Ahmad Bashir",
   initials: "AB",
@@ -137,7 +137,7 @@ export const DATA = {
       school: "freeCodeCamp",
       href: "https://www.freecodecamp.org/",
       degree: "Full Stack Web Development Certification, Computer Science",
-      logoUrl: "https://media.licdn.com/dms/image/v2/C4E0BAQGLKj3JHcof0w/company-logo_100_100/company-logo_100_100/0/1630639684997/free_code_camp_logo?e=1738195200&v=beta&t=KPhcEP6-8U_pM3mEZarDJEfZsjA9hM6AJgQPyIt2iYA",
+      logoUrl: "/icon/FreecodeCamplogo.png",      
       start: "2015",
       end: "2016",
     },
@@ -148,7 +148,7 @@ export const DATA = {
       school: "Lancaster University",
       href: "https://www.lancaster.ac.uk/",
       degree: "Bachelor's degree  in Computer Science, Computer Science",
-      logoUrl: "https://media.licdn.com/dms/image/v2/C4E0BAQGKio0Euee3Lw/company-logo_100_100/company-logo_100_100/0/1631301666319?e=1738195200&v=beta&t=fewQaxSSyIIMxTDrlURswIoJJa46cpejVapHaypT_Ws",
+      logoUrl: "/icon/lu-shield.svg",
       start: "2012",
       end: "2016",
     },

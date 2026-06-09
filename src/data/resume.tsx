@@ -117,7 +117,7 @@ export const DATA = {
       badges: [],
       href: "https://myAlfred.com",
       location: "Dubai, UAE",
-      title: "Fullstack UI/UX Designer & Developer",
+      title: "Fullstack UI/UX Designer",
       logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1j_lzE0JQB1PuOuhcM1tEB9dIKr7nZGiGAw&s",
       start: "Sep 2022",
       end: "Aug 2023",

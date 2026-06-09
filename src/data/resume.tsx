@@ -103,14 +103,13 @@ export const DATA = {
       company: "Pet Emporio",
       badges: [],
       href: "https://www.linkedin.com/company/petemporio/",
-      location: "Dubai, UAE",
+      location: "California, USA",
       title: "Lead UI/UX Designer",
       logoUrl: "https://media.licdn.com/dms/image/v2/D560BAQELEz2tidtWLg/company-logo_200_200/B56Z54e.IcIIAE-/0/1780137846047/petemporio_logo?e=1782345600&v=beta&t=qcn2IVrirb7iqJptdB6Pq4Our-SDteffjftjBVJ9fEg",
       start: "Mar 2024",
       end: "Jan 2025",
       description:
-        "Designed the product listing experience — including filters by pet type, breed, age, and category — reducing time-to-find for shoppers browsing a large product catalogueOwned the full checkout flow UX from cart through payment confirmation, focusing on reducing friction and building purchase confidence with clear progress indicators and trust signals
-",
+        "Designed the product listing experience — including filters by pet type, breed, age, and category — reducing time-to-find for shoppers browsing a large product catalogueOwned the full checkout flow UX from cart through payment confirmation, focusing on reducing friction and building purchase confidence with clear progress indicators and trust signals",
     },
     
     {

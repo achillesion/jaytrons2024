@@ -94,7 +94,7 @@ export const DATA = {
       href: "https://myAlfred.com",
       location: "Dubai, UAE",
       title: "Fullstack UI/UX Designer & Developer",
-      logoUrl: "https://avbizjournal.com/wp-content/uploads/2024/10/nat.png",
+      logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpz7xb22SRN-hbWsrX26LM7AwTccrlkbwQ_aQ36EQ2Wum9aKmk4SNI2k0&s=10",
       start: "Aug 2024",
       end: "May 2025",
       description:

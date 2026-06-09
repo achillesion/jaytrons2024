@@ -89,16 +89,16 @@ export const DATA = {
     
     
         {
-      company: "myAlfred",
+      company: "Hangar Direct",
       badges: [],
       href: "https://myAlfred.com",
       location: "Dubai, UAE",
       title: "Fullstack UI/UX Designer & Developer",
       logoUrl: "https://avbizjournal.com/wp-content/uploads/2024/10/nat.png",
-      start: "Mar 2022",
-      end: "Aug 2023",
+      start: "Aug 2024",
+      end: "May 2025",
       description:
-        "Product Design and Development, Wireframing, UI Design for 26+ Modules, 300+ Figma designs along with leading of designers. Video Commercials, Marketing strategy",
+        "Designed the end-to-end location-based search and map experience, enabling pilots to find, filter, and book hangars by state, city, and airport code across the USCrafted the property listing flow for hangar owners — simplifying a complex multi-step process (photos, dimensions, pricing, availability) into a frictionless self-serve experienceLed UX for the booking and payment checkout flow, designing trust signals and transparent pricing screens that reduced abandonment Designed the dual-sided dashboard for both pilots (renters) and facility operators — giving each user type clear visibility into bookings, availability, and demandCreated mobile-first responsive screens so pilots could search and book on the go from any deviceInvested 700+ hours as primary designer on the platform — owning discovery, wireframes, prototyping, usability testing, and final UI handoffCollaborated directly with founders and developers to ship a product described by users as ""the easiest experience ever"" and ""like Airbnb and MLS in one"",
     },    {
       company: "myAlfred",
       badges: [],

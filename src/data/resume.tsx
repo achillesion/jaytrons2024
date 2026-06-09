@@ -119,7 +119,7 @@ export const DATA = {
       location: "Dubai, UAE",
       title: "Fullstack UI/UX Designer & Developer",
       logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1j_lzE0JQB1PuOuhcM1tEB9dIKr7nZGiGAw&s",
-      start: "Mar 2022",
+      start: "Sep 2022",
       end: "Aug 2023",
       description:
         "Product Design and Development, Wireframing, UI Design for 26+ Modules, 300+ Figma designs along with leading of designers. Video Commercials, Marketing strategy",

@@ -104,7 +104,7 @@ export const DATA = {
       badges: [],
       href: "https://www.linkedin.com/company/petemporio/",
       location: "Dubai, UAE",
-      title: "Fullstack UI/UX Designer & Developer",
+      title: "Lead UI/UX Designer",
       logoUrl: "https://media.licdn.com/dms/image/v2/D560BAQELEz2tidtWLg/company-logo_200_200/B56Z54e.IcIIAE-/0/1780137846047/petemporio_logo?e=1782345600&v=beta&t=qcn2IVrirb7iqJptdB6Pq4Our-SDteffjftjBVJ9fEg",
       start: "Mar 2024",
       end: "Jan 2025",

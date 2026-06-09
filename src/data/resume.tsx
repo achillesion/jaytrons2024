@@ -91,9 +91,9 @@ export const DATA = {
         {
       company: "Hangar Direct",
       badges: [],
-      href: "https://myAlfred.com",
-      location: "Dubai, UAE",
-      title: "Fullstack UI/UX Designer & Developer",
+      href: "https://www.hangardirect.com/",
+      location: "Montana, USA",
+      title: "Lead UI/UX Designer ",
       logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpz7xb22SRN-hbWsrX26LM7AwTccrlkbwQ_aQ36EQ2Wum9aKmk4SNI2k0&s=10",
       start: "Aug 2024",
       end: "May 2025",
@@ -102,14 +102,15 @@ export const DATA = {
     },    {
       company: "Pet Emporio",
       badges: [],
-      href: "https://myAlfred.com",
+      href: "https://www.linkedin.com/company/petemporio/",
       location: "Dubai, UAE",
       title: "Fullstack UI/UX Designer & Developer",
       logoUrl: "https://media.licdn.com/dms/image/v2/D560BAQELEz2tidtWLg/company-logo_200_200/B56Z54e.IcIIAE-/0/1780137846047/petemporio_logo?e=1782345600&v=beta&t=qcn2IVrirb7iqJptdB6Pq4Our-SDteffjftjBVJ9fEg",
-      start: "Mar 2022",
-      end: "Aug 2023",
+      start: "Mar 2024",
+      end: "Jan 2025",
       description:
-        "Product Design and Development, Wireframing, UI Design for 26+ Modules, 300+ Figma designs along with leading of designers. Video Commercials, Marketing strategy",
+        "Designed the product listing experience — including filters by pet type, breed, age, and category — reducing time-to-find for shoppers browsing a large product catalogueOwned the full checkout flow UX from cart through payment confirmation, focusing on reducing friction and building purchase confidence with clear progress indicators and trust signals
+",
     },
     
     {

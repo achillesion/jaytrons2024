@@ -86,6 +86,32 @@ export const DATA = {
 
   work: [
   
+    
+    
+        {
+      company: "myAlfred",
+      badges: [],
+      href: "https://myAlfred.com",
+      location: "Dubai, UAE",
+      title: "Fullstack UI/UX Designer & Developer",
+      logoUrl: "https://media.licdn.com/dms/image/v2/C4E0BAQEwRJNQf30Ypw/company-logo_100_100/company-logo_100_100/0/1637577102656/myalfred_llc_logo?e=1738195200&v=beta&t=CN1hE-4xoxqpcRjJuKK8tl-LiJYulG5lPIpu4C6gi6I",
+      start: "Mar 2022",
+      end: "Aug 2023",
+      description:
+        "Product Design and Development, Wireframing, UI Design for 26+ Modules, 300+ Figma designs along with leading of designers. Video Commercials, Marketing strategy",
+    },    {
+      company: "myAlfred",
+      badges: [],
+      href: "https://myAlfred.com",
+      location: "Dubai, UAE",
+      title: "Fullstack UI/UX Designer & Developer",
+      logoUrl: "https://media.licdn.com/dms/image/v2/C4E0BAQEwRJNQf30Ypw/company-logo_100_100/company-logo_100_100/0/1637577102656/myalfred_llc_logo?e=1738195200&v=beta&t=CN1hE-4xoxqpcRjJuKK8tl-LiJYulG5lPIpu4C6gi6I",
+      start: "Mar 2022",
+      end: "Aug 2023",
+      description:
+        "Product Design and Development, Wireframing, UI Design for 26+ Modules, 300+ Figma designs along with leading of designers. Video Commercials, Marketing strategy",
+    },
+    
     {
       company: "myAlfred",
       badges: [],

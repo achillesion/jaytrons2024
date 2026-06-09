@@ -142,7 +142,7 @@ export const DATA = {
       badges: [],
       location: "Lahore, Pakistan, PK",
       title: "Full Stack Developer",
-      logoUrl: "https://media.licdn.com/dms/image/v2/D4D0BAQEVgi2-DW7qmw/company-logo_100_100/company-logo_100_100/0/1725350955612/narsunstudios_logo?e=1738195200&v=beta&t=LuhtdPSA3Tah-Jutr91pTjbpJoULQm_ZHgwlnmqk8UA",
+      logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1EeMwsgJtSL2EnV8Q6ulugkq-m-NSRHs0kg&s",
       start: "January 2015",
       end: "April 2018",
       description:

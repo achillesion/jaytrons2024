@@ -21,7 +21,7 @@ export default function Page() {
 
       <section id="hero">
         <div className="mx-auto w-full max-w-2xl space-y-8">
-          <div className="gap-2 flex justify-between">
+          <div className="gap-2 flex justify-between items-center">
             <div className="flex-col flex flex-1 space-y-1.5">
 
               {/* <BlurFadeText

@@ -8,7 +8,7 @@ export const DATA = {
   location: "Lahore, Pakistan, PK",
   locationLink: "https://www.google.com/maps/place/lahore",
   description:
-    "Product design and development for early-stage SaaS founders. Ship a product that sells itself ",
+    "Product design and development for early-stage SaaS founders. Ship a product that sells itself.",
   summary:
     // "At the end of 2022, I quit my job as a software engineer to go full-time into building and scaling my own SaaS businesses. In the past, [I pursued a double degree in computer science and business](/#education), [interned at big tech companies in Silicon Valley](https://www.youtube.com/watch?v=d-LJ2e5qKdE), and [competed in over 21 hackathons for fun](/#hackathons). I also had the pleasure of being a part of the first ever in-person cohort of buildspace called [buildspace sf1](https://buildspace.so/sf1).",
     "Lead UI/UX Designer with 5+ years crafting human-centred digital products. Expert at turning ambiguous briefs into validated, pixel-perfect interfaces. Proven track record in building from the ground up on products like Hangar Direct & Pet Emporio and scaling design systems used by 200k+ users. Passionate about accessible, delightful experiences. Invested 700+ hours as sole designer on Hangar Direct, delivering live product — from discovery research through pixel-perfect handoff",

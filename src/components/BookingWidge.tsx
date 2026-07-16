@@ -22,11 +22,20 @@ const BookingWidget = () => {
       document.body.style.overflow = 'unset';
     }
 
-    
     return () => {
       document.body.style.overflow = 'unset';
     };
   }, [isOpen]);
+
+  useEffect(() => {
+    const handleOpenCalendlyModal = () => setIsOpen(true);
+
+    window.addEventListener("openCalendlyModal", handleOpenCalendlyModal);
+
+    return () => {
+      window.removeEventListener("openCalendlyModal", handleOpenCalendlyModal);
+    };
+  }, []);
 
   return (
     <>

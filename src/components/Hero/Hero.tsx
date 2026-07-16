@@ -17,7 +17,7 @@ const Hero = () => {
         </div>
 
         {/* Main Heading */}
-        <h1 className="text-4xl sm:text-5xl md:text-[80px] font-regular mb-4 animate-slide-up relative z-10 leading-tight w-full break-words">
+        <h1 className="text-6xl sm:text-7xl md:text-[80px] font-regular mb-4 animate-slide-up relative z-10 leading-tight w-full break-words tracking-[-1.6px]">
           <span className="text-foreground">Full-Stack </span>
           <span className="animated-gradient-text">Developer</span>
           <br />

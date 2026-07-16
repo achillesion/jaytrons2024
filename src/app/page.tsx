@@ -35,12 +35,12 @@ export default function Page() {
             </div>
             <BlurFade delay={BLUR_FADE_DELAY}>
               <div className="flex flex-col gap-4  mt-6 lg:mt-0 lg:ml-8 lg:min-w-[260px]">
-                <StatInline dotClass="bg-sky-400" value="25+" label="B2B SaaS products shipped" />
+                <StatInline dotClass="bg-sky-400 " value="25+" label="B2B SaaS products shipped" />
                 <div className=" border-border ">
-                  <StatInline dotClass="bg-sky-400" value="Now Booking" label="Limited spots each month" />
-                  <div className="mt-4">
+                  <StatInline dotClass="bg-sky-400 " value="Now Booking" label="Limited spots each month" />
+                  <div className="mt-5">
                     <OpenBookingButton
-                      className="inline-flex w-fit rounded-[2px] bg-rose-500 px-6 py-3 text-base font-semibold text-white shadow-[0_16px_40px_-12px_rgba(244,63,94,0.55)] transition duration-50 ease-out hover:-translate-y-0.5 hover:bg-rose-600 hover:shadow-[0_0_0_10px_rgba(244,63,94,0.18),0_24px_96px_-28px_rgba(244,63,94,0.85)] hover:ring-2 hover:ring-rose-500/30"
+                      className="inline-flex  w-full rounded-[2px] bg-rose-500 px-6 py-3 text-base font-semibold text-white shadow-[0_16px_40px_-12px_rgba(244,63,94,0.55)] transition duration-50 ease-out hover:-translate-y-0.5 hover:bg-rose-600 hover:shadow-[0_0_0_10px_rgba(244,63,94,0.18),0_24px_96px_-28px_rgba(244,63,94,0.85)] hover:ring-2 hover:ring-rose-500/30"
                     />
                   </div>
                 </div>

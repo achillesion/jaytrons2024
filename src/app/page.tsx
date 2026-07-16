@@ -31,12 +31,12 @@ export default function Page() {
                 text={`Hi, I'm ${DATA.name.split(" ")[0]} 👋`}
               />
          */}
-              <BlurFadeText className="max-w-full text-lg sm:text-xl md:text-2xl whitespace-pre-line font-semibold tracking-[-1.6px]" delay={BLUR_FADE_DELAY} text={DATA.description} />
+              <BlurFadeText className="max-w-full mt-6 md:mt-0 text-3xl sm:text-xl md:text-2xl whitespace-pre-line font-semibold tracking-[-1.6px]" delay={BLUR_FADE_DELAY} text={DATA.description} />
             </div>
             <BlurFade delay={BLUR_FADE_DELAY}>
-              <div className="flex flex-col gap-4 mt-8 lg:mt-0 lg:ml-8 lg:min-w-[260px]">
+              <div className="flex flex-col gap-4  mt-6 lg:mt-0 lg:ml-8 lg:min-w-[260px]">
                 <StatInline dotClass="bg-sky-400" value="25+" label="B2B SaaS products shipped" />
-                <div className=" border-border pt-4">
+                <div className=" border-border ">
                   <StatInline dotClass="bg-sky-400" value="Now Booking" label="Limited spots each month" />
                   <div className="mt-4">
                     <OpenBookingButton

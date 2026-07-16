@@ -12,8 +12,8 @@ export default function StatInline({ dotClass = "bg-sky-400", value, label }: St
   return (
     <div className="flex items-center gap-1 whitespace-nowrap">
       <span className={`w-2 h-2 ${dotClass} flex-shrink-0`} />
-      <span className="text-xs md:text-sm font-semibold text-foreground">{value}</span>
-      <span className="text-[10px] md:text-xs text-muted-foreground ml-1">{label}</span>
+      <span className="text-xl md:text-sm md:text-sm font-semibold text-foreground">{value}</span>
+      <span className="text-xl md:text-sm md:text-xs text-muted-foreground ml-1">{label}</span>
     </div>
   );
 }
